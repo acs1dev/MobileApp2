@@ -182,7 +182,7 @@ class _editcustomersState extends State<editcustomers> {
               headers: <String, String>{
                 'Content-Type': 'application/json',
                 'Authorization':
-                    'key=AAAAANyLzQA:APA91bF0h5G63eu1fr01gpeKIKxZCcAHG4DsXQ665W46e7Xs8y5afDSBPnr2voOXK-IfvwbTLwV6lR46GM4SgB8gNSRNl_cqcLb9SEpaXyAudt7O5mOfsLK_8tZ71aBc-sLeFm5EyWus',
+                    '*-*',
               },
               body: jsonEncode(<String, dynamic>{
                 'notification': <String, dynamic>{
