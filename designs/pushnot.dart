@@ -9,7 +9,7 @@ class LocalNotificationService {
   static void initialize() {
     final InitializationSettings initializationSettings =
         InitializationSettings(
-            android: AndroidInitializationSettings("@mipmap/ic_launcher"));
+            android: AndroidInitializationSettings("-_-"));
     _flutterLocalNotificationsPlugin.initialize(initializationSettings);
   }
 
