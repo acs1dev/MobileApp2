@@ -90,7 +90,7 @@ class _AdminRegisterState extends State<AdminRegister> {
                   ),
                   Image(
                     image: NetworkImage(
-                        "https://firebasestorage.googleapis.com/v0/b/graduationproject-5cb91.appspot.com/o/logo%2Fprologo.png?alt=media&token=b8d470bc-510e-40b2-9140-77b06c3c0674"),
+                        "-_-"),
                     height: 270,
                   ),
                   Center(
