@@ -178,7 +178,7 @@ class _editcustomersState extends State<editcustomers> {
     };
     try {
       http.Response response =
-          await http.post(Uri.parse('https://fcm.googleapis.com/fcm/send'),
+          await http.post(Uri.parse('-_-'),
               headers: <String, String>{
                 'Content-Type': 'application/json',
                 'Authorization':
